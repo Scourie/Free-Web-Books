@@ -6,6 +6,8 @@ Google Drive：https://drive.google.com/drive/folders/1r2GWk5-PmKya6qBw7mzMhGLwD
 
 百度网盘：https://pan.baidu.com/s/1uZcJDbBsz7s2GKRrWw2WTg  密码:dhnr
 
+❗Books and materials are only for personal learning and use, and the copyright belongs to the original author. If there is any infringement, please contact me!（书籍和资料仅供个人学习使用，版权归原作者所有，如有侵权请联系我！）
+
 ## List of Books
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
@@ -34,6 +36,8 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Head First HTML5 Programming（中文版)[[Download]](/book/Head%20First%20HTML5%20Programming（中文版）.pdf)
 * HTML5权威指南 [[Download]](/book/HTML5权威指南.pdf)
 * JavaScript权威指南 6e [[Download]](/book/JavaScript权威指南%206e.pdf)
+* 悟透JavaScript [[Download]](/book/悟透JavaScript.pdf)
+* JavaScript核心概念及实践 [[Download]](/book/JavaScript核心概念及实践.pdf)
 * HTML5与CSS3权威指南 [[Download]](/book/HTML5与CSS3权威指南.pdf)
 * jQuery权威指南（第2版） [[Download]](/book/jQuery权威指南（第2版）.pdf)
 * 深入理解PHP：高级技巧、面向对象与核心技术（原书第3版)
@@ -65,6 +69,21 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 ---
 
 - [Web 開發人員的路線圖](https://github.com/goodjack/developer-roadmap-chinese)
+- [前端自学学习路线](https://juejin.cn/post/6979778540044550152)
+- [前端导航](https://www.kwgg2020.com/) | [GitHub前端学习资源](https://github.com/FrontEndGitHub/FrontEndGitHub)
+- [SimbaJS的个人空间_哔哩哔哩](https://space.bilibili.com/425325651)
+- [JavaScript 教程](https://wangdoc.com/javascript/index.html)
+- [ES6 教程](https://wangdoc.com/es6/index.html)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
+- [前端进阶积累](http://obkoro1.com/web_accumulate/)
+- [Vue 官网](https://cn.vuejs.org/v2/guide/)
+- [React 官方中文文档](https://react.docschina.org/)
+- [TypeScript 中文网](https://www.tslang.cn/)
+- [Bootstrap中文网](https://www.bootcss.com/)
+- [BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务](https://www.bootcdn.cn/)
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+- [Apache ECharts](https://echarts.apache.org/zh/index.html)
+- [PPChart - 让图表更简单](http://ppchart.com)
 - [Gixy: Nginx configuration static analyzer](https://github.com/yandex/gixy)
 - [resources.oreilly.com-examples](https://resources.oreilly.com/examples)
 - [nginx config file formatter/beautifier written in Python with no additional dependencies.](https://github.com/slomkowski/nginx-config-formatter)
